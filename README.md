@@ -1,7 +1,10 @@
 # yeetCrypterBinaries
 
-Public binaries of the private utility "yeetcrypter" which is an encryption tool, that used keys, keyfiles and keyless encryption depending on personal preference.
+### What is this?
+These repository holds the pre-built binaries of the originally private utility "YeetCrypter". YeetCrypter has a built in a AES-256 bit algorithm used to safely encrypt files and keys.
 
-Yeetcrypter uses a AES-256 bit encryption algorithm to safely encrypt files and keyfiles
+### What are the YeetCrypter Keyfiles?
+Apart from the obvious option to encrypt and decrypt files with a password, YeetCrypter also has the option to generate keyfiles, that can be used to access another file just like in the real world with a key and a door. This way you can share you keyfile once and the other one can also decrypt your files without asking for a password or knowing the password you originally used for the key...
 
-As this is supposed to be a secure encryption tool, the source code will remain private and any new releases will be published in this repository...
+### Why does this repo only hold the binaries and not the code?
+There are generally two ways of securing software... Make it public and let everyone work on it or keep it private and profit from the mistery about the architecture. The ladder option is currently the one used for YeetCryter as it was never inteded to be public. Its just a unitily I made for myself and its now public for anyone to use...
